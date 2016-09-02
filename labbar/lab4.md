@@ -142,7 +142,7 @@ alla tecken från en array av tecken till en annan):
 ```c
 void string_copy(char *source, char *dest)
 {
-  while (*dst++ = *source++) ;
+  while (*dest++ = *source++) ;
 }
 ```
 
